@@ -1,2 +1,5 @@
 Hello Everyone this is my git repo
 ok ok ok
+
+def fun1():
+	print ("hello world")
