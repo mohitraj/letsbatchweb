@@ -1,2 +1,5 @@
 Moving head 
 ginni index , info gain
+
+def fun1():
+	print ("This is the R1 branch code ")
